@@ -197,9 +197,6 @@
                 <protobuf.version>2.5.0</protobuf.version>
                 <py4j.version>0.10.7</py4j.version>
             </properties>
-            <activation>
-                <activeByDefault>true</activeByDefault>
-            </activation>
         </profile>
 
         <profile>
@@ -209,6 +206,9 @@
                 <protobuf.version>2.5.0</protobuf.version>
                 <py4j.version>0.10.7</py4j.version>
             </properties>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
         </profile>
 
         <profile>
